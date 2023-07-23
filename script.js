@@ -7,7 +7,7 @@ const closebt=document.querySelector(".close-btn")
 
 
 let userMessage;
-const Apikey="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";
+const Apikey="";
 
 const createChatLi=(mess,className)=>{
     const chatli=document.createElement("li");
